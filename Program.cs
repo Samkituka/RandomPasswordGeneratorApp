@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Microsoft.Extensions.Hosting;
+using System;
+using System.Data;
 
-namespace RandomPasswordGenerator_ConsoleApp
+namespace RandomPasswordGeneratorApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -18,5 +20,6 @@ namespace RandomPasswordGenerator_ConsoleApp
             Console.WriteLine($"Random Password: { result}");
             Console.ReadKey();
         }
+
     }
 }

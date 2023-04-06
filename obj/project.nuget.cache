@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0eMWLgAzcu31LZ6mnWWFb0Lp07L0VLUwHr7VI8508tMhT6IInt5EE6hAwQg5lHNmZWLLFJYMF60L1VhRa6OXA==",
+  "dgSpecHash": "Azagu2T0ISNzf6HS7viR5fAcbRNkuqUFfSRdplAXRl534QywhkZaHOlq3+Rdq7kXhFFdZwOltzvhYjc2ReeXcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\RandomPasswordGenerator_ConsoleApp\\RandomPasswordGenerator_ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\RandomPasswordGenerator_ConsoleApp\\RandomPasswordGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
