@@ -1,2 +1,2 @@
-# RandomPasswordGenerator_ConsoleApp
- Console Application that generates random Passwords for users.
+# RandomPasswordGeneratorApp
+ ASP.NET MVC App that generates random Passwords for users.
